@@ -22,6 +22,12 @@ The primary objective of this study is to perform an in-depth exploratory data a
 
 This analysis will provide data-driven insights to inform strategic decisions regarding inventory management, marketing campaigns, product pricing, and customer satisfaction enhancement on the Amazon platform
 
+
+##### DATA SOURCE
+Dataset extracted from Amazon product listings provided Excel file)
+
+It contains a collection of Amazon products such as customer user_id, product items, username, rating and customer review.
+
 ##### 📊 Dataset Overview
 - Total Records: 1,462
 - Fields: 16
@@ -30,12 +36,8 @@ This analysis will provide data-driven insights to inform strategic decisions re
     - Product details (Name, Category, Price, Discounts)
     - User engagement metrics (Review count, Ratings)
     - Price variations and Revenue potential
-##### DATA SOURCE
-Dataset extracted from Amazon product listings provided Excel file)
 
-It contains a collection of Amazon products such as customer user_id, product items, username, rating and customer review.
-
-# 📈 Key Metrics (KPIs)
+##### 📈 Key Metrics (KPIs)
 | Metric                                | Value             |
 |---------------------------------------|-------------------|
 | ⭐ Average Rating                      | 4.10              |
