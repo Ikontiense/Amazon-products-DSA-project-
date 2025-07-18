@@ -101,6 +101,8 @@ Most products were found in the ₹200 – ₹500 range, indicating mid-range pr
 ###### 8. Top Products Identification
 Products with the highest average ratings and most reviews were listed to help identify potential star performers and customer favorites.
 
+<img width="1368" height="729" alt="visualization" src="https://github.com/user-attachments/assets/77069745-79c8-4c53-9768-5ba55f1a202e" />
+
 # 📬 Contact
 If you have questions or would like to collaborate:
 
