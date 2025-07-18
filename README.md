@@ -21,6 +21,15 @@ The primary objective of this study is to perform an in-depth exploratory data a
 * Categorize products by price range to explore pricing diversity and customer targeting within the product catalog.
 
 This analysis will provide data-driven insights to inform strategic decisions regarding inventory management, marketing campaigns, product pricing, and customer satisfaction enhancement on the Amazon platform
+
+##### 📊 Dataset Overview
+- Total Records: 1,462
+- Fields: 16
+- Source: DSA Canvas LMS
+- Contains:
+    - Product details (Name, Category, Price, Discounts)
+    - User engagement metrics (Review count, Ratings)
+    - Price variations and Revenue potential
 ##### DATA SOURCE
 Dataset extracted from Amazon product listings provided Excel file)
 
