@@ -104,7 +104,7 @@ Products with the highest average ratings and most reviews were listed to help i
 <img width="1368" height="729" alt="visualization" src="https://github.com/user-attachments/assets/77069745-79c8-4c53-9768-5ba55f1a202e" />
 
 # 📬 Contact
-If you have questions or would like to collaborate:
+If you have questions or would like to collaborate:    
 
 Udo Ikontiense Nathaniel 
 📧 Email: [ikontienseudo@gmail.com]
