@@ -26,8 +26,20 @@ Dataset extracted from Amazon product listings provided Excel file)
 
 It contains a collection of Amazon products such as customer user_id, product items, username, rating and customer review.
 
+# 📈 Key Metrics (KPIs)
+| Metric                                | Value             |
+|---------------------------------------|-------------------|
+| ⭐ Average Rating                      | 4.10              |
+| 🗣️ Total Reviews                      | 1,462             |
+| 🔖 Average Discount %                 | 48%               |
+| 💰 Average Actual Price               | ₹5,453.09         |
+| 💸 Average Discounted Price           | ₹3,129.98         |
+| 💵 Total Actual Revenue Potential     | ₹121.3 Billion    |
+| 🧾 Total Discounted Revenue           | ₹71.9 Billion     |
+| 📉 Discount Impact on Revenue         | ₹49.4 Billion     |
 
-###### DATA TOOL
+
+###### 🛠 DATA TOOL
 
 * Microsoft excel
 * Excel power query
@@ -88,4 +100,10 @@ Most products were found in the ₹200 – ₹500 range, indicating mid-range pr
 
 ###### 8. Top Products Identification
 Products with the highest average ratings and most reviews were listed to help identify potential star performers and customer favorites.
+
+# 📬 Contact
+If you have questions or would like to collaborate:
+
+Udo Ikontiense Nathaniel 
+📧 Email: [ikontienseudo@gmail.com]
 
