@@ -1,4 +1,4 @@
-# Amazon-products-and-Kultra-Mega-Stores-Inventory-products-Review-DSA-project-
+# Amazon-products-Review-DSA-project-
 ## PROJECT TOPIC
 -AMAZON PRODUCT REVIEW ANALYSIS
 ### PROJECT OVERVIEW
